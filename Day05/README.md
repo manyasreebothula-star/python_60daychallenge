@@ -1,0 +1,1 @@
+This Python program analyzes disaster resource requests, classifies them into demand categories, applies a personalized filtering rule (PLI), and generates a final dispatch report using lists, loops, and conditional statements.
